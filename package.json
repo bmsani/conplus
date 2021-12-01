@@ -1,0 +1,24 @@
+{
+  "name": "conplus",
+  "version": "1.0.0",
+  "description": "designed by Asgor sani",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmsani/conplus.git"
+  },
+  "author": "sani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmsani/conplus/issues"
+  },
+  "homepage": "https://github.com/bmsani/conplus#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.44.0"
+  }
+}
