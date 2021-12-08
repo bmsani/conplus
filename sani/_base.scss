@@ -1,4 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap");
+// import google font
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap');
+
+
 /* reset styles */
 * {
   color: inherit;
@@ -27,6 +31,11 @@ img {
   max-width: 100%;
 }
 
-.h1 {
-  color: #002155;
-}
+// h1 {
+//     color: $primary;
+//     margin-bottom: $base-margin;
+// }
+
+// a{
+//     color: $secondary;
+// }
