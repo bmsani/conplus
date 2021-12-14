@@ -11,3 +11,11 @@
 @import"sani/component";
 
 // utilities ( margin, padding, opacity )
+
+
+
+.logo-info{
+    display: flex;
+    height: 120px;
+    background-image: linear-gradient(135deg, $color-white 50%, $secondry-color 50%);
+}

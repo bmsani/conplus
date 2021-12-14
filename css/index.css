@@ -30,3 +30,9 @@ img {
 .h1 {
   color: #002155;
 }
+
+.logo-info {
+  display: flex;
+  height: 120px;
+  background-image: linear-gradient(135deg, #fefefe 50%, #ff5e14 50%);
+}
